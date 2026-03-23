@@ -16,7 +16,7 @@ Navigate to individual dashboards from the **Dashboards** tab in OpsPilot.
 - **Create dashboards** in OpsPilot to tailor your data visualization to meet your specific needs. You must be on the Pro AI plan or higher to create custom dashboards. You can upgrade your plan [here](https://app.opspilot.com).
 
 !!! info
-    Dashboards will continue to evolve — over time we will continue to add new sets of dashboards and improve existing dashboards provisioned to your account. Some dashboards are marked as **experimental**, allowing us to continually roll out new concepts.
+    Dashboards will continue to evolve — over time we will add new sets of dashboards and improve existing dashboards provisioned to your account. Some dashboards are marked as **experimental**, allowing us to continually roll out new concepts.
 
 ---
 
