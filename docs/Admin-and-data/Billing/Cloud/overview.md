@@ -7,6 +7,25 @@ To start your FusionReactor journey, first sign up for a free, no-obligation [tr
 ![!Screenshot](../../Billing/Cloud/newbilling.png)
 
 
+## Purchasing a Subscription
+
+1. [Log in](https://app.fusionreactor.io) to the FusionReactor Portal.
+2. Navigate to **Administration** in the left-hand menu.
+3. In the **Cloud Trial** box, click the gear icon and select **Manage Settings**.
+4. You will be redirected to the **Billing** page. At the top of the page, select the subscription frequency you prefer, either **Yearly** or **Monthly**.
+    !!! note
+        The Yearly option is approximately 20% less expensive than the monthly plan.
+5. Select the number of **FusionReactor Ultimate** reservations you require.
+    !!! tip
+        If you need more in the future, you can add additional servers at any time, either on demand or as additional reservations.
+6. Select the **AI plan** you would like to use.
+    !!! note
+        If you have more than 4 servers or 16 containers, we recommend the **Pro AI plan**.
+
+Once the subscription has been processed, any discounts required will be applied to your account.
+
+---
+
 ## What's included
 
 |**Product**| **Price** | **Metrics** | **Logs** | **Traces** | **OpsPilot tokens**|
@@ -260,11 +279,11 @@ Alongside each data source is a graph that provides further information on your 
 To control your usage and spending costs it is possible to create an alert to fire if you exceed the allowed usage. 
 
 !!! info "Learn more"
-    [Create a check](/Data-insights/Features/alerting/#create-a-check)
+    [Create a check](/Data-insights/Features/Alerting/Alerts-overview/)
 
 #### Example billing usage checks
 
-For instructions on configuring billing checks, see the [Billing usage checks](/Data-insights/Features/billing-check) section. The following are examples of common billing usage checks: 
+For instructions on configuring billing checks, see the [Billing usage checks](/Data-insights/Features/alerting-examples/) section. The following are examples of common billing usage checks: 
 
 * `fr_billing_usage_current`
 * `fr_billing_charges_metered`
